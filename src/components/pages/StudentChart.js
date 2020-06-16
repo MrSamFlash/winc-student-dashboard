@@ -50,6 +50,7 @@ const StudentChart = () => {
               {
                 ticks: {
                   beginAtZero: true,
+                  max: 5,
                 },
                 scaleLabel: {
                   display: true,
